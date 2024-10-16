@@ -200,4 +200,3 @@ def mostrar_lista_criptos_gui(tree):
 ```
 
 #### As I'm still learning about GitHub, feel free to contact me or fork and pull a request if needed. Thanks for your attention
-
